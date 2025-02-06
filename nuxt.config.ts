@@ -1,5 +1,5 @@
 export default defineNuxtConfig({
-  // https://github.com/nuxt-themes/docus
+  // https://github.com/pedrito-96/design-tokens-doc
   extends: ['@nuxt-themes/docus'],
   devtools: { enabled: true },
 
